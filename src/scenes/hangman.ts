@@ -36,7 +36,7 @@ export class HangmanScene extends Phaser.Scene {
    */
   private setNewWord(): void {
     this.word = words[Math.floor(Math.random() * words.length)];
-    this.progress.setText(this.word.split("").map((_) => "_").join(""))
+    this.progress.setText(this.word.split("").map((_) => "-").join(""))
   }
 
   /**
