@@ -18,4 +18,4 @@ Alternativ kann das Projekt in [GitPod](https://gitpod.io/#https://github.com/kl
 
 ## Design
 
-[Öffnen] (https://www.figma.com/file/dPnqZEuuXLptXDgc4bagFQ/Kartenblatt?node-id=0%3A1) 
+[Öffnen](https://www.figma.com/file/dPnqZEuuXLptXDgc4bagFQ/Kartenblatt?node-id=0%3A1) 
